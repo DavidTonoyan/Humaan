@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\C#\End\bin\Debug\netcoreapp3.0\End.exe
+C:\Users\HP\Documents\C#\End\bin\Debug\netcoreapp3.0\End.deps.json
+C:\Users\HP\Documents\C#\End\bin\Debug\netcoreapp3.0\End.runtimeconfig.json
+C:\Users\HP\Documents\C#\End\bin\Debug\netcoreapp3.0\End.runtimeconfig.dev.json
+C:\Users\HP\Documents\C#\End\bin\Debug\netcoreapp3.0\End.dll
+C:\Users\HP\Documents\C#\End\bin\Debug\netcoreapp3.0\End.pdb
+C:\Users\HP\Documents\C#\End\obj\Debug\netcoreapp3.0\End.csprojAssemblyReference.cache
+C:\Users\HP\Documents\C#\End\obj\Debug\netcoreapp3.0\End.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\C#\End\obj\Debug\netcoreapp3.0\End.AssemblyInfo.cs
+C:\Users\HP\Documents\C#\End\obj\Debug\netcoreapp3.0\End.dll
+C:\Users\HP\Documents\C#\End\obj\Debug\netcoreapp3.0\End.pdb
